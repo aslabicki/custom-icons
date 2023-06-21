@@ -312,8 +312,8 @@ window.customIconsets["cil"] = getIcon;
 
 const Name = "Custom-icons";
 const Version = "0.3.8";
-const Description = "20221004";
-const Url = "https://github.com/Mariusthvdb/custom-icons";
+const Description = "20221006";
+const Url = "https://github.com/aslabicki/custom-icons";
 console.info(
     `%c  ${Name}  \n%c  Version ${Version} ${Description}`,
     "color: gold; font-weight: bold; background: black",
